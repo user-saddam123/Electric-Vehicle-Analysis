@@ -35,7 +35,7 @@ If you find this project intriguing and insightful, please consider liking and c
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-Created and Analyzed by- Saddam Ansari @Aspiring data Analyst [LinkedIn]https://www.linkedin.com/in/saddam-ansari-dataanalyst)
+Created and Analyzed by- Saddam Ansari @Aspiring data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst)
 
 Place - India
 
